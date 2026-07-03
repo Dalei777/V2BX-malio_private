@@ -6,7 +6,6 @@ on:
     branches:
       - master
       - dev_new
-      - min
     paths:
       - "**/*.go"
       - "go.mod"
